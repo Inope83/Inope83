@@ -1,29 +1,136 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7A7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+inope83+%F0%9F%91%8B;Django+%26+AI+Enthusiast;Web+App+Developer;Music+%26+Gaming+Lover" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=620&lines=%5BWARNING%3A+SYSTEM+BREACH+DETECTED%5D;%3E+Identifying+intruder...+Inope83;%3E+Django+%26+AI+Engineer;%3E+Weaponizing+Python+since+day+one;%3E+%5BACCESS+GRANTED%5D" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+```
+██████████████████████████████████████████████████████████
+█                                                        █
+█   ██████╗ ██████╗ ███████╗ █████╗  ██████╗██╗  ██╗   █
+█   ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║  ██║   █
+█   ██████╔╝██████╔╝█████╗  ███████║██║     ███████║   █
+█   ██╔══██╗██╔══██╗██╔══╝  ██╔══██║██║     ██╔══██║   █
+█   ██████╔╝██║  ██║███████╗██║  ██║╚██████╗██║  ██║   █
+█   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   █
+█                                                        █
+█         [ USER: Inope83 ]  [ STATUS: ACTIVE ]         █
+██████████████████████████████████████████████████████████
+```
+
+</div>
+
+---
+
+```bash
+$ whoami
+> Inope83 — Django & AI Developer ☠
+
+$ cat /etc/profile.d/about.conf
+  ├── 🔭 Target      : Django Web Apps & AI Projects
+  ├── 🌱 Exploiting  : Advanced Python · ML · AI Chatbots
+  ├── 💬 Intel on    : Python · Django · Web Dev · Startups
+  ├── 🎯 Mission     : Open Source & Building Dangerous AI
+  └── ⚡ Off-duty    : Music 🎵 · Futsal ⚽ · Gaming 🎮
+
+$ systemctl status availability
+  ● inope83.service — ACTIVE (running)
+  [✔] Open to collaboration
+  [✔] Accepting new missions
+  [✔] Always in the shadows, always learning
+```
+
+---
+
+```bash
+$ cat /var/log/arsenal.log
+```
+<div align="center">
+
+
+**` languages & frameworks`**
+
+![Python](https://img.shields.io/badge/▸_Python-FF0000?style=flat-square&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/▸_Django-FF0000?style=flat-square&logo=django&logoColor=black)
+![FastAPI](https://img.shields.io/badge/▸_FastAPI-FF0000?style=flat-square&logo=fastapi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/▸_JavaScript-FF0000?style=flat-square&logo=javascript&logoColor=black)
+
+**` databases & devops`**
+
+![Git](https://img.shields.io/badge/▸_Git-FF0000?style=flat-square&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/▸_Linux-FF0000?style=flat-square&logo=linux&logoColor=black)
+
+**` ai / ml`**
+
+![TensorFlow](https://img.shields.io/badge/▸_TensorFlow-FF0000?style=flat-square&logo=tensorflow&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/▸_scikit--learn-FF0000?style=flat-square&logo=scikitlearn&logoColor=black)
+![OpenAI](https://img.shields.io/badge/▸_OpenAI-FF0000?style=flat-square&logo=openai&logoColor=black)
+
+---
+</div>
+
+```bash
+$ ./scan --target=Inope83 --deep
+```
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Inope83&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=FF0000&icon_color=FF0000&text_color=FF4444&bg_color=0d0000" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inope83&layout=compact&hide_border=true&langs_count=6&title_color=FF0000&text_color=FF4444&bg_color=0d0000" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Inope83&hide_border=true&background=0d0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF4444&dates=991111&currStreakNum=FF0000&sideNums=FF4444" />
+
+</div>
+
+---
+
+```bash
+$ locate ./contacts/* && cat results.txt
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/[_GitHub_]-Inope83-FF0000?style=flat-square&logo=github&logoColor=FF0000&labelColor=0d0000&color=0d0000)](https://github.com/Inope83)
+[![LinkedIn](https://img.shields.io/badge/[_LinkedIn_]-Connect-FF0000?style=flat-square&logo=linkedin&logoColor=FF0000&labelColor=0d0000&color=0d0000)](https://linkedin.com/in/inope83)
+[![Portfolio](https://img.shields.io/badge/[_Portfolio_]-Visit-FF0000?style=flat-square&logo=vercel&logoColor=FF0000&labelColor=0d0000&color=0d0000)](https://inope83.dev)
+[![Email](https://img.shields.io/badge/[_Email_]-Reach_Me-FF0000?style=flat-square&logo=gmail&logoColor=FF0000&labelColor=0d0000&color=0d0000)](mailto:your@email.com)
+
+</div>
+
+---
+
+```bash
+$ ./run_snake.sh --contributions --eat
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inope83/Inope83/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inope83/Inope83/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Inope83/Inope83/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+```
+> "The quieter you become, the more you are able to hear."
+>
+>  Executing final payload... done.
+>  Session terminated. Trace destroyed. ☠
+```
+
+![](https://komarev.com/ghpvc/?username=Inope83&color=ff0000&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<div align="center">
-  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif">
-</div>
-
-```yaml
-🔭 Working on:    Django Web Apps & AI Projects
-🌱 Learning:      Advanced Python, Machine Learning & AI Chatbots
-💬 Ask me about:  Python, Django, Web Development, Tech Startups
-🎯 Goals:         Contribute to Open Source & Build Cool AI Stuff
-⚡ Fun fact:      I'm a music lover, futsal player & hardcore gamer! 🎵⚽🎮
-📫 How to reach me: Check my socials below! 😉
-
-
