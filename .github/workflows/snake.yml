@@ -12,9 +12,18 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Inope83
+          # Warna ular merah menyala
+          color_snake: "#ff0000"
+          # Warna kotak kontribusi gradasi merah
+          color_dots: |
+            #0d0000
+            #330000
+            #660000
+            #990000
+            #ff0000
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#ff0000&color_dots=#0d0000,#330000,#660000,#990000,#ff0000
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
